@@ -1,6 +1,6 @@
 # Neural-Style-Transfer
 
-## Resultados
+## Results after 4000 epochs
 
 <table>
   <tr>
