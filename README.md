@@ -6,4 +6,4 @@
 
 ![alt text](https://github.com/WilliamGaggiotti/Neural-Style-Transfer/blob/main/style_images/van_gogh/mona_lisa_noche_estrellada/mona_lisa.jpg){:height="50%" width="50%"}
 
-![alt text](https://github.com/WilliamGaggiotti/Neural-Style-Transfer/blob/main/style_images/van_gogh/noche_estrellada.jpeg){:height="50%" width="50%"}
+![alt text](https://github.com/WilliamGaggiotti/Neural-Style-Transfer/blob/main/style_images/van_gogh/noche_estrellada.jpeg =250x250)
